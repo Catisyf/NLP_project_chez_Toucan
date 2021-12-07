@@ -10,7 +10,7 @@ This project is used as an automated filtering tool to identify good leads for T
 	
 ## Technologies
 Project is created with:
-* Python version: 3.6
+* Python version: 3.7.12
 
 ## Setup
 To run this project, install package locally using Google Colab or Jupiter Notebook:
